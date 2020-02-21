@@ -1,1 +1,1 @@
-# Java-Web-Service---Business-Search-and-Recommendation
+# Java Web Service---Business Search and Recommendation
